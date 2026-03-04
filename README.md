@@ -1,7 +1,6 @@
 # PeDri — Car Services Platform
 
 Android application for managing car-related services, developed as part of the **Software Engineering** course at the **University of Patras**.
-
 ---
 
 ## 📱 About
@@ -109,7 +108,3 @@ Working on this project gave me hands-on experience across the full software dev
 ## 👥 Team
 - Developed by a team of 4 students.
 ---
-
-## 📄 License
-
-This project was created for academic purposes.

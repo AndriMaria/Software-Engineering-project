@@ -11,7 +11,7 @@ PeDri is a mobile app that connects **users** with **business owners** offering 
 
 ## ✨ Features
 
-### 👤 User
+## User
 - **Parking** — Search available parking spots by location, date & time, and book instantly
 - **Car Wash** — Find and reserve car wash slots in your area
 - **Car Rental** — Browse available cars by location, date, and cost (ascending/descending)
@@ -20,7 +20,7 @@ PeDri is a mobile app that connects **users** with **business owners** offering 
 - **Transaction History** — View all past payments and top-ups
 - **Profile Management** — Update personal details with password verification
 
-### 🏢 Owner
+## Owner
 - **Reservation Management** — View and manage incoming parking & car wash bookings
 - **Pricing** — Update service prices; compare against area average
 - **Offers** — Automatically suggest creating an offer when a price drops below the area average

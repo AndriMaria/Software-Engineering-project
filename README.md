@@ -1,17 +1,16 @@
-# PeDri — Car Services Platform
+# PeDri (Car Services Platform)
 
 Android application for managing car-related services, developed as part of the **Software Engineering** course at the **University of Patras**.
 ---
 
 ## 📱 About
 
-PeDri is a mobile app that connects **users** with **business owners** offering car services. Users can search, book, and pay for services, while owners can manage reservations and pricing — all from a single platform.
-
+### PeDri is a mobile app that connects **users** with **business owners** offering car services. Users can search, book, and pay for services, while owners can manage reservations and pricing — all from a single platform.
 ---
 
 ## ✨ Features
 
-## User
+### User
 - **Parking** — Search available parking spots by location, date & time, and book instantly
 - **Car Wash** — Find and reserve car wash slots in your area
 - **Car Rental** — Browse available cars by location, date, and cost (ascending/descending)
@@ -20,14 +19,15 @@ PeDri is a mobile app that connects **users** with **business owners** offering 
 - **Transaction History** — View all past payments and top-ups
 - **Profile Management** — Update personal details with password verification
 
-## Owner
+### Owner
 - **Reservation Management** — View and manage incoming parking & car wash bookings
 - **Pricing** — Update service prices; compare against area average
 - **Offers** — Automatically suggest creating an offer when a price drops below the area average
 - **Wallet** — Track earnings and transaction history
 
 
-## Architecture
+### Architecture
+
 ```mermaid
 flowchart TD
     LogIn --> CentralMenuUser

@@ -26,9 +26,8 @@ PeDri is a mobile app that connects **users** with **business owners** offering 
 - **Offers** — Automatically suggest creating an offer when a price drops below the area average
 - **Wallet** — Track earnings and transaction history
 
----
 
-## 🏗️ Architecture
+## Architecture
 ```mermaid
 flowchart TD
     LogIn --> CentralMenuUser

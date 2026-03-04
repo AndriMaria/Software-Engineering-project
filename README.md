@@ -107,7 +107,7 @@ Working on this project gave me hands-on experience across the full software dev
 - Studied Agile methodologies: Scrum & Kanban
 ------
 ## 👥 Team
-Developed by a team of 4 students for the Software Engineering course, University of Patras.
+- Developed by a team of 4 students.
 ---
 
 ## 📄 License
